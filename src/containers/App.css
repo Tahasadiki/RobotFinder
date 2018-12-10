@@ -1,0 +1,10 @@
+@font-face {
+font-family: 'Sifonn Pro';
+font-style: normal;
+font-weight: normal;
+src: local('Sifonn Pro'), url('SIFONN_PRO.woff') format('woff');
+}
+h1{
+  font-family: 'Sifonn Pro';
+  color : #99ccff;
+}
